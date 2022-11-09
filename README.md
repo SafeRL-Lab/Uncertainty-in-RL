@@ -36,7 +36,7 @@ The README is organized as follows:
 
 #### 1.2. Generative Adversarial Imitation Learning
 - Generative Adversarial Imitation Learning, [Paper](https://proceedings.neurips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)(2016)
-- A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [Paper] (https://arxiv.org/pdf/1611.03852.pdf?source=post_page)(2016)
+- A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [Paper]  (https://arxiv.org/pdf/1611.03852.pdf?source=post_page)(2016)
 - Triple-GAIL: A Multi-Modal Imitation Learning Framework with Generative Adversarial Nets, [Paper](https://arxiv.org/pdf/2005.10622.pdf)(2020)
 
 #### 1.3. Preference-based RL 
