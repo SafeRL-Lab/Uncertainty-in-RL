@@ -36,15 +36,15 @@ The README is organized as follows:
 
 #### 1.2. Generative Adversarial Imitation Learning
 - Generative Adversarial Imitation Learning, [Paper](https://proceedings.neurips.cc/paper/2016/file/cc7e2b878868cbae992d1fb743995d8f-Paper.pdf)(2016)
-- A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [Paper]  (https://arxiv.org/pdf/1611.03852.pdf?source=post_page)(2016)
+- A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, [Paper](https://arxiv.org/pdf/1611.03852.pdf?source=post_page)(2016)
 - Triple-GAIL: A Multi-Modal Imitation Learning Framework with Generative Adversarial Nets, [Paper](https://arxiv.org/pdf/2005.10622.pdf)(2020)
 
 #### 1.3. Preference-based RL 
 - Deep Reinforcement Learning from Human Preferences, [Paper](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)(2017)
 - Reward learning from human preferences and demonstrations in Atari, [Paper](https://proceedings.neurips.cc/paper/2018/file/8cbe9ce23f42628c98f80fa0fac8b19a-Paper.pdf)(2018)
 - End-to-End Robotic Reinforcement Learning without Reward Engineering, [Paper](https://arxiv.org/pdf/1904.07854.pdf)(2019)
-- PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training, [Paper]https://arxiv.org/pdf/2106.05091.pdf)(2021)
-- Reward uncertainty for exploration in preference-based RL, [Paper] (https://arxiv.org/pdf/2205.12401.pdf)(2022)
+- PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training, [Paper](https://arxiv.org/pdf/2106.05091.pdf)(2021)
+- Reward uncertainty for exploration in preference-based RL, [Paper](https://arxiv.org/pdf/2205.12401.pdf)(2022)
 
 #### 1.4. Meta-Learning 
 - MURAL: Meta-Learning Uncertainty-Aware Rewards for Outcome-Driven Reinforcement Learning, [Paper](http://proceedings.mlr.press/v139/li21g/li21g.pdf) (2021)
