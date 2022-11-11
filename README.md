@@ -52,9 +52,24 @@ The README is organized as follows:
 
 
 
-### 2. Safe RL Baselines
+### 2. Uncertainty in transition
 
-#### 2.1. Safe Single Agent RL Baselines
+#### 2.1. probabilistic inference and learning for control
+
+- PILCO: A Model-Based and Data-Efficient Approach to Policy Search, [Paper](https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf)(2011)
+
+- Improving PILCO with Bayesian Neural Network Dynamics Models，[Paper](http://mlg.eng.cam.ac.uk/yarin/website/PDFs/DeepPILCO.pdf)(2016)
+
+
+
+
+
+-Robust Control of Markov Decision Processes with Uncertain Transition Matrices, [Paper](http://people.eecs.berkeley.edu/~elghaoui/Pubs/RobMDP_OR2005.pdf)(2005)
+
+
+
+
+- Exploring State Transition Uncertainty in Variational Reinforcement Learning, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9287440)(2020)
 
 - Consideration of risk in reinforcement learning, [Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.8264&rep=rep1&type=pdf), Not Find Code, (Accepted by ICML 1994)
 
