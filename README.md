@@ -60,7 +60,7 @@ The README is organized as follows:
 
 - Improving PILCO with Bayesian Neural Network Dynamics Models，[Paper](http://mlg.eng.cam.ac.uk/yarin/website/PDFs/DeepPILCO.pdf)(2016)
 
-
+-When to Trust Your Model: Model-Based Policy Optimization，[Paper](https://proceedings.neurips.cc/paper/2019/file/5faf461eff3099671ad63c6f3f094f7f-Paper.pdf)(2019)
 
 
 
