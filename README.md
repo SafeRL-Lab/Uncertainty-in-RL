@@ -63,7 +63,7 @@ The README is organized as follows:
 
 #### 2.2. 
  
-- Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models,  [Paper] (https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)(2018)
+- Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [Paper](https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)(2018)
 - When to Trust Your Model: Model-Based Policy Optimization，[Paper](https://proceedings.neurips.cc/paper/2019/file/5faf461eff3099671ad63c6f3f094f7f-Paper.pdf)(2019)
 
 
