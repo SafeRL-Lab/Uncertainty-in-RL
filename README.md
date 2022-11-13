@@ -71,5 +71,5 @@ The README is organized as follows:
 
 - Exploring State Transition Uncertainty in Variational Reinforcement Learning, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9287440)(2020)
 
-- Consideration of risk in reinforcement learning, [Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.8264&rep=rep1&type=pdf), Not Find Code, (Accepted by ICML 1994)
+
 
