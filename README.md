@@ -54,26 +54,32 @@ The README is organized as follows:
 
 ### 2. Uncertainty in transition
 
-#### 2.1. probabilistic inference and learning for control
+#### 2.1. Probabilistic Inference and Learning for Control
 
 - PILCO: A Model-Based and Data-Efficient Approach to Policy Search, [Paper](https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf)(2011)
 
 - Improving PILCO with Bayesian Neural Network Dynamics Models，[Paper](http://mlg.eng.cam.ac.uk/yarin/website/PDFs/DeepPILCO.pdf)(2016)
 
 
-#### 2.2. 
+#### 2.2.Probabilistic Ensembles with Trajectory Sampling 
  
 - Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [Paper](https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)(2018)
-- When to Trust Your Model: Model-Based Policy Optimization，[Paper](https://proceedings.neurips.cc/paper/2019/file/5faf461eff3099671ad63c6f3f094f7f-Paper.pdf)(2019)
+[Code](https://github.com/kchua/handful-of-trials)
+
+- Variational Inference MPC for Bayesian Model-based Reinforcement Learning,  [Paper] (http://proceedings.mlr.press/v100/okada20a/okada20a.pdf)(2020)
+
+
+
+
 
 
 
 - Robust Control of Markov Decision Processes with Uncertain Transition Matrices, [Paper](http://people.eecs.berkeley.edu/~elghaoui/Pubs/RobMDP_OR2005.pdf)(2005)
-
-
-
-
 - Exploring State Transition Uncertainty in Variational Reinforcement Learning, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9287440)(2020)
+
+
+
+
 
 
 
