@@ -54,15 +54,24 @@ The README is organized as follows:
 
 ### 2. Uncertainty in transition
 
-#### 2.1. Probabilistic Inference and Learning for Control
+#### 2.1. Gaussian Process, Bayesian Neural Network 
 
 - PILCO: A Model-Based and Data-Efficient Approach to Policy Search, [Paper](https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf)(2011)
 
 - Improving PILCO with Bayesian Neural Network Dynamics Models，[Paper](http://mlg.eng.cam.ac.uk/yarin/website/PDFs/DeepPILCO.pdf)(2016)
 
+- Weight Uncertainty in Neural Networks, [Paper] (http://proceedings.mlr.press/v37/blundell15.pdf)(2015)
+
+- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, [Paper] (http://proceedings.mlr.press/v48/gal16.pdf)(2016)
+
+
 
 #### 2.2. Model-Ensemble
  
+- Deep Exploration via Bootstrapped DQN, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9287440)(2016) 
+
+- Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles, [Paper](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)(2017)
+
 - Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [Paper](https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)(2018)
 [Code](https://github.com/kchua/handful-of-trials)
 
@@ -72,18 +81,17 @@ The README is organized as follows:
 
 #### 2.3. Variational RL
 
+
+- Auto-Encoding Variational Bayes, [Paper](https://arxiv.org/pdf/1312.6114.pdf?source=post_page---------------------------)(2013)
+
 - Exploring State Transition Uncertainty in Variational Reinforcement Learning, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9287440)(2020)
-
-
-
 
 
 
 ### 2.4. Robust RL
 - Robust Control of Markov Decision Processes with Uncertain Transition Matrices, [Paper](http://people.eecs.berkeley.edu/~elghaoui/Pubs/RobMDP_OR2005.pdf)(2005)
 
-
-
+- Robust Multi-Agent Reinforcement Learning with Model Uncertainty, [Paper](https://proceedings.neurips.cc/paper/2020/file/774412967f19ea61d448977ad9749078-Paper.pdf)(2020)
 
 
 
