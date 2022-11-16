@@ -88,7 +88,7 @@ The README is organized as follows:
 
 
 
-### 2.4. Robust RL
+#### 2.4. Robust RL
 - Robust Control of Markov Decision Processes with Uncertain Transition Matrices, [Paper](http://people.eecs.berkeley.edu/~elghaoui/Pubs/RobMDP_OR2005.pdf)(2005)
 
 - Robust Multi-Agent Reinforcement Learning with Model Uncertainty, [Paper](https://proceedings.neurips.cc/paper/2020/file/774412967f19ea61d448977ad9749078-Paper.pdf)(2020)
