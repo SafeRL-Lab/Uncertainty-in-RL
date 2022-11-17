@@ -91,9 +91,9 @@ The README is organized as follows:
 #### 2.4. Robust RL
 - Robust Control of Markov Decision Processes with Uncertain Transition Matrices, [Paper](http://people.eecs.berkeley.edu/~elghaoui/Pubs/RobMDP_OR2005.pdf)(2005)
 
-- Reinforcement Learning in Robust Markov Decision Processes, [Paper] (https://proceedings.neurips.cc/paper/2013/file/0deb1c54814305ca9ad266f53bc82511-Paper.pdf)(2013)
+- Reinforcement Learning in Robust Markov Decision Processes, [Paper](https://proceedings.neurips.cc/paper/2013/file/0deb1c54814305ca9ad266f53bc82511-Paper.pdf)(2013)
 
-- Robust Adversarial Reinforcement Learning, [Paper] (http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)(2017)
+- Robust Adversarial Reinforcement Learning, [Paper](http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)(2017)
 
 - Robust analysis of discounted Markov decision processes with uncertain transition probabilities, [Paper](http://www.amjcu.zju.edu.cn/amjcub/2020-2029/202004/417-436.pdf)(2020)
 
