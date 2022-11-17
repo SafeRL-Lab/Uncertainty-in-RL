@@ -60,7 +60,7 @@ The README is organized as follows:
 
 - Improving PILCO with Bayesian Neural Network Dynamics Models，[Paper](http://mlg.eng.cam.ac.uk/yarin/website/PDFs/DeepPILCO.pdf)(2016)
 
-- Weight Uncertainty in Neural Networks, [Paper] (http://proceedings.mlr.press/v37/blundell15.pdf)(2015)
+- Weight Uncertainty in Neural Networks, [Paper](http://proceedings.mlr.press/v37/blundell15.pdf)(2015)
 
 - Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, [Paper] (http://proceedings.mlr.press/v48/gal16.pdf)(2016)
 
@@ -75,7 +75,7 @@ The README is organized as follows:
 - Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models, [Paper](https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)(2018)
 [Code](https://github.com/kchua/handful-of-trials)
 
-- Model-Ensemble Trust-Region Policy Optimization,  [Paper] (https://arxiv.org/pdf/1802.10592.pdf)(2018)
+- Model-Ensemble Trust-Region Policy Optimization,  [Paper](https://arxiv.org/pdf/1802.10592.pdf)(2018)
 [Code](https://github.com/thanard/me-trpo.)
 
 
