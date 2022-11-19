@@ -62,7 +62,7 @@ The README is organized as follows:
 
 - Weight Uncertainty in Neural Networks, [Paper](http://proceedings.mlr.press/v37/blundell15.pdf)(2015)
 
-- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, [Paper] (http://proceedings.mlr.press/v48/gal16.pdf)(2016)
+- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, [Paper](http://proceedings.mlr.press/v48/gal16.pdf)(2016)
 
 
 
