@@ -101,6 +101,23 @@ The README is organized as follows:
 
 - RAMBO-RL: Robust Adversarial Model-Based Offline Reinforcement Learning, [Paper](https://arxiv.org/pdf/2204.12581.pdf)(2022) [Code](https://github.com/marc-rigter/rambo)
 
+### 3. Uncertainty in state
+
+#### 3.1. 
+
+- Deep Recurrent Q-Learning for Partially Observable MDPs, [Paper](https://arxiv.org/pdf/1507.06527.pdf)(2015)
+
+- Intention-Aware Online POMDP Planning for Autonomous Driving in a Crows, [Paper](https://bigbird.comp.nus.edu.sg/m2ap/wordpress/wp-content/uploads/2016/01/icra15.pdf)(2015) 
+
+- On Improving Deep Reinforcement Learning for POMDPs, [Paper](https://arxiv.org/pdf/1704.07978.pdf)(2018) [Code](https://github.com/bit1029public/ADRQN)
+
+
+
+- VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)  [Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
+
+
+- Bayesian Reinforcement Learning for Multiagent Systems with State Uncertainty, [Paper](https://d1wqtxts1xzle7.cloudfront.net/33866159/msdm2013-proceedings-with-cover-page-v2.pdf?Expires=1668977494&Signature=DjGUcOEoWzZOYs5hjOkhWSHzS9udXcua7ZwBvo1guJvdJmqkBT6I~IbVp8qWzUain9vcAdjAAJEZj5qvuAIsxXaWj7IFUcSUbI~aBM~5xGNrKtUpYLRSZuPNjVBR~QXQvZigdjiNGnkWCeJ-WtHzoxCA2UnLXmTyKid7UBPYaVzyMxjYlqTsEQjphgR04ePt522N0fHMBMjE3ofqX-SQLBdkzhe7M8QwuHhPH6FMWLZ4Kp1HyOaVz-KmZfdTFxfRyHXDxxw6ymqJq8jiqnXmNuFqkt8kB528JYpG2JJ0hhaWLdlur1xXzsrvzoC~KEsJU2KGvfInIPECHeJvnEukTA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=80)(2013)
+
 
 
 
