@@ -111,13 +111,18 @@ The README is organized as follows:
 
 - On Improving Deep Reinforcement Learning for POMDPs, [Paper](https://arxiv.org/pdf/1704.07978.pdf)(2018) [Code](https://github.com/bit1029public/ADRQN)
 
-
+-Shaping Belief States with Generative Environment Models for RL, [Paper](https://proceedings.neurips.cc/paper/2019/file/2c048d74b3410237704eb7f93a10c9d7-Paper.pdf)(2019)
 
 - VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)  [Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
 
+- Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDP,  [Paper](https://arxiv.org/pdf/2110.05038.pdf)(2021) 
+
+- Memory-based Deep Reinforcement Learning for POMDP, [Paper](https://arxiv.org/pdf/2102.12344.pdf)(2021) 
+
+- Flow-based Recurrent Belief State Learning for POMDPs, [Paper](https://proceedings.mlr.press/v162/chen22q/chen22q.pdf)(2022) 
 
 - Bayesian Reinforcement Learning for Multiagent Systems with State Uncertainty, [Paper](https://d1wqtxts1xzle7.cloudfront.net/33866159/msdm2013-proceedings-with-cover-page-v2.pdf?Expires=1668977494&Signature=DjGUcOEoWzZOYs5hjOkhWSHzS9udXcua7ZwBvo1guJvdJmqkBT6I~IbVp8qWzUain9vcAdjAAJEZj5qvuAIsxXaWj7IFUcSUbI~aBM~5xGNrKtUpYLRSZuPNjVBR~QXQvZigdjiNGnkWCeJ-WtHzoxCA2UnLXmTyKid7UBPYaVzyMxjYlqTsEQjphgR04ePt522N0fHMBMjE3ofqX-SQLBdkzhe7M8QwuHhPH6FMWLZ4Kp1HyOaVz-KmZfdTFxfRyHXDxxw6ymqJq8jiqnXmNuFqkt8kB528JYpG2JJ0hhaWLdlur1xXzsrvzoC~KEsJU2KGvfInIPECHeJvnEukTA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=80)(2013)
-
+ 
 
 
 
