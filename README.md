@@ -107,7 +107,11 @@ The README is organized as follows:
 
 - Deep Recurrent Q-Learning for Partially Observable MDPs, [Paper](https://arxiv.org/pdf/1507.06527.pdf)(2015)
 
+- Deep Reinforcement Learning with POMDP, [Paper](http://cs229.stanford.edu/proj2015/363_report.pdf)(2015)
+
 - Intention-Aware Online POMDP Planning for Autonomous Driving in a Crows, [Paper](https://bigbird.comp.nus.edu.sg/m2ap/wordpress/wp-content/uploads/2016/01/icra15.pdf)(2015) 
+
+- Deep Variational Reinforcement Learning for POMDPs, [Paper](http://proceedings.mlr.press/v80/igl18a/igl18a.pdf)(2018)
 
 - On Improving Deep Reinforcement Learning for POMDPs, [Paper](https://arxiv.org/pdf/1704.07978.pdf)(2018) [Code](https://github.com/bit1029public/ADRQN)
 
@@ -115,7 +119,9 @@ The README is organized as follows:
 
 - VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)  [Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
 
-- Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDP,  [Paper](https://arxiv.org/pdf/2110.05038.pdf)(2021) 
+- Particle Filter Recurrent Neural Networks, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5952)(2020)
+
+- Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDP, [Paper](https://arxiv.org/pdf/2110.05038.pdf)(2021) 
 
 - Memory-based Deep Reinforcement Learning for POMDP, [Paper](https://arxiv.org/pdf/2102.12344.pdf)(2021) 
 
