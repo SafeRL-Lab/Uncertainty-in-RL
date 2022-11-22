@@ -111,7 +111,7 @@ The README is organized as follows:
 
 - On Improving Deep Reinforcement Learning for POMDPs, [Paper](https://arxiv.org/pdf/1704.07978.pdf)(2018) [Code](https://github.com/bit1029public/ADRQN)
 
--Shaping Belief States with Generative Environment Models for RL, [Paper](https://proceedings.neurips.cc/paper/2019/file/2c048d74b3410237704eb7f93a10c9d7-Paper.pdf)(2019)
+- Shaping Belief States with Generative Environment Models for RL, [Paper](https://proceedings.neurips.cc/paper/2019/file/2c048d74b3410237704eb7f93a10c9d7-Paper.pdf)(2019)
 
 - VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)  [Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
 
