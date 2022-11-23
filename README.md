@@ -109,6 +109,8 @@ The README is organized as follows:
 
 - Deep Reinforcement Learning with POMDP, [Paper](http://cs229.stanford.edu/proj2015/363_report.pdf)(2015)
 
+- DESPOT: Online POMDP Planning with Regularization, [Paper](https://proceedings.neurips.cc/paper/2013/file/c2aee86157b4a40b78132f1e71a9e6f1-Paper.pdf)(2013)
+
 - Intention-Aware Online POMDP Planning for Autonomous Driving in a Crows, [Paper](https://bigbird.comp.nus.edu.sg/m2ap/wordpress/wp-content/uploads/2016/01/icra15.pdf)(2015) 
 
 - Deep Variational Reinforcement Learning for POMDPs, [Paper](http://proceedings.mlr.press/v80/igl18a/igl18a.pdf)(2018)
@@ -118,6 +120,8 @@ The README is organized as follows:
 - Shaping Belief States with Generative Environment Models for RL, [Paper](https://proceedings.neurips.cc/paper/2019/file/2c048d74b3410237704eb7f93a10c9d7-Paper.pdf)(2019)
 
 - VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)  [Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
+
+- QMDP-Net: Deep Learning for Planning under Partial Observability, [Paper](https://proceedings.neurips.cc/paper/2017/file/e9412ee564384b987d086df32d4ce6b7-Paper.pdf)(2017)
 
 - Particle Filter Recurrent Neural Networks, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5952)(2020)
 
