@@ -105,11 +105,12 @@ The README is organized as follows:
 
 #### 3.1. 
 
+- DESPOT: Online POMDP Planning with Regularization, [Paper](https://proceedings.neurips.cc/paper/2013/file/c2aee86157b4a40b78132f1e71a9e6f1-Paper.pdf)(2013)
+- Bayesian Reinforcement Learning for Multiagent Systems with State Uncertainty, [Paper](https://d1wqtxts1xzle7.cloudfront.net/33866159/msdm2013-proceedings-with-cover-page-v2.pdf?Expires=1668977494&Signature=DjGUcOEoWzZOYs5hjOkhWSHzS9udXcua7ZwBvo1guJvdJmqkBT6I~IbVp8qWzUain9vcAdjAAJEZj5qvuAIsxXaWj7IFUcSUbI~aBM~5xGNrKtUpYLRSZuPNjVBR~QXQvZigdjiNGnkWCeJ-WtHzoxCA2UnLXmTyKid7UBPYaVzyMxjYlqTsEQjphgR04ePt522N0fHMBMjE3ofqX-SQLBdkzhe7M8QwuHhPH6FMWLZ4Kp1HyOaVz-KmZfdTFxfRyHXDxxw6ymqJq8jiqnXmNuFqkt8kB528JYpG2JJ0hhaWLdlur1xXzsrvzoC~KEsJU2KGvfInIPECHeJvnEukTA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=80)(2013)
+
 - Deep Recurrent Q-Learning for Partially Observable MDPs, [Paper](https://arxiv.org/pdf/1507.06527.pdf)(2015)
 
 - Deep Reinforcement Learning with POMDP, [Paper](http://cs229.stanford.edu/proj2015/363_report.pdf)(2015)
-
-- DESPOT: Online POMDP Planning with Regularization, [Paper](https://proceedings.neurips.cc/paper/2013/file/c2aee86157b4a40b78132f1e71a9e6f1-Paper.pdf)(2013)
 
 - Intention-Aware Online POMDP Planning for Autonomous Driving in a Crows, [Paper](https://bigbird.comp.nus.edu.sg/m2ap/wordpress/wp-content/uploads/2016/01/icra15.pdf)(2015) 
 
@@ -131,7 +132,7 @@ The README is organized as follows:
 
 - Flow-based Recurrent Belief State Learning for POMDPs, [Paper](https://proceedings.mlr.press/v162/chen22q/chen22q.pdf)(2022) 
 
-- Bayesian Reinforcement Learning for Multiagent Systems with State Uncertainty, [Paper](https://d1wqtxts1xzle7.cloudfront.net/33866159/msdm2013-proceedings-with-cover-page-v2.pdf?Expires=1668977494&Signature=DjGUcOEoWzZOYs5hjOkhWSHzS9udXcua7ZwBvo1guJvdJmqkBT6I~IbVp8qWzUain9vcAdjAAJEZj5qvuAIsxXaWj7IFUcSUbI~aBM~5xGNrKtUpYLRSZuPNjVBR~QXQvZigdjiNGnkWCeJ-WtHzoxCA2UnLXmTyKid7UBPYaVzyMxjYlqTsEQjphgR04ePt522N0fHMBMjE3ofqX-SQLBdkzhe7M8QwuHhPH6FMWLZ4Kp1HyOaVz-KmZfdTFxfRyHXDxxw6ymqJq8jiqnXmNuFqkt8kB528JYpG2JJ0hhaWLdlur1xXzsrvzoC~KEsJU2KGvfInIPECHeJvnEukTA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=80)(2013)
+
  
 
 
