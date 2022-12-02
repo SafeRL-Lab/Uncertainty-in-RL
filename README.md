@@ -13,7 +13,7 @@ The repository is for Reinforcement-Learning Uncertainty research, in which we i
 
 ***
 The README is organized as follows:
-- [1. Environments Supported](#1-environments-supported)
+- [1. Uncertainty in reward)
   * [1.1. Safe Single Agent RL benchmarks](#11-safe-single-agent-rl-benchmarks)
   * [1.2. Safe Multi-Agent RL benchmarks](#12-safe-multi-agent-rl-benchmarks)
 - [2. Safe RL Baselines](#2-safe-rl-baselines)
@@ -114,6 +114,8 @@ The README is organized as follows:
 
 - Intention-Aware Online POMDP Planning for Autonomous Driving in a Crows, [Paper](https://bigbird.comp.nus.edu.sg/m2ap/wordpress/wp-content/uploads/2016/01/icra15.pdf)(2015) 
 
+- QMDP-Net: Deep Learning for Planning under Partial Observability, [Paper](https://proceedings.neurips.cc/paper/2017/file/e9412ee564384b987d086df32d4ce6b7-Paper.pdf)(2017)
+
 - Deep Variational Reinforcement Learning for POMDPs, [Paper](http://proceedings.mlr.press/v80/igl18a/igl18a.pdf)(2018)
 
 - On Improving Deep Reinforcement Learning for POMDPs, [Paper](https://arxiv.org/pdf/1704.07978.pdf)(2018) [Code](https://github.com/bit1029public/ADRQN)
@@ -121,8 +123,6 @@ The README is organized as follows:
 - Shaping Belief States with Generative Environment Models for RL, [Paper](https://proceedings.neurips.cc/paper/2019/file/2c048d74b3410237704eb7f93a10c9d7-Paper.pdf)(2019)
 
 - VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)  [Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
-
-- QMDP-Net: Deep Learning for Planning under Partial Observability, [Paper](https://proceedings.neurips.cc/paper/2017/file/e9412ee564384b987d086df32d4ce6b7-Paper.pdf)(2017)
 
 - Particle Filter Recurrent Neural Networks, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5952)(2020)
 
