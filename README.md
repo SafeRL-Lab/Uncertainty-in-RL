@@ -132,7 +132,11 @@ The README is organized as follows:
 
 - Flow-based Recurrent Belief State Learning for POMDPs, [Paper](https://proceedings.mlr.press/v162/chen22q/chen22q.pdf)(2022) 
 
+### 4. Uncertainty in observation
+#### 4.1. 
+- Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, [Paper](https://arxiv.org/pdf/2003.08938.pdf)(2021)
 
+- Incorporating Observation Uncertainty into Reinforcement Learning-Based Spacecraft Guidance Schemes, [Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2022-1765)(2022)
  
 
 
