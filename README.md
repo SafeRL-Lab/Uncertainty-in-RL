@@ -13,7 +13,7 @@ The repository is for Reinforcement-Learning Uncertainty research, in which we i
 
 ***
 The README is organized as follows:
-- [1. Uncertainty in reward)
+- [1. Uncertainty in reward]
   * [1.1. Safe Single Agent RL benchmarks](#11-safe-single-agent-rl-benchmarks)
   * [1.2. Safe Multi-Agent RL benchmarks](#12-safe-multi-agent-rl-benchmarks)
 - [2. Safe RL Baselines](#2-safe-rl-baselines)
