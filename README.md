@@ -134,9 +134,14 @@ The README is organized as follows:
 
 ### 4. Uncertainty in observation
 #### 4.1. 
+
+- Certified Adversarial Robustness for Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1910.12908.pdf)(2019)
+
 - Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, [Paper](https://arxiv.org/pdf/2003.08938.pdf)(2021)
 
 - Incorporating Observation Uncertainty into Reinforcement Learning-Based Spacecraft Guidance Schemes, [Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2022-1765)(2022)
+
+- Certifiable Robustness to Adversarial State Uncertainty in Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/2004.06496.pdf)(2022)
  
 
 
