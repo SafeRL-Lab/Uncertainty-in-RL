@@ -116,6 +116,8 @@ The README is organized as follows:
 
 - QMDP-Net: Deep Learning for Planning under Partial Observability, [Paper](https://proceedings.neurips.cc/paper/2017/file/e9412ee564384b987d086df32d4ce6b7-Paper.pdf)(2017)
 
+- TEMPORAL DIFFERENCE VARIATIONAL AUTO-ENCODER, [Paper](https://arxiv.org/pdf/1806.03107.pdf)(2018)
+
 - Deep Variational Reinforcement Learning for POMDPs, [Paper](http://proceedings.mlr.press/v80/igl18a/igl18a.pdf)(2018)
 
 - On Improving Deep Reinforcement Learning for POMDPs, [Paper](https://arxiv.org/pdf/1704.07978.pdf)(2018) [Code](https://github.com/bit1029public/ADRQN)
