@@ -103,36 +103,49 @@ The README is organized as follows:
 
 ### 3. Uncertainty in state
 
-#### 3.1. 
-
-- DESPOT: Online POMDP Planning with Regularization, [Paper](https://proceedings.neurips.cc/paper/2013/file/c2aee86157b4a40b78132f1e71a9e6f1-Paper.pdf)(2013)
-- Bayesian Reinforcement Learning for Multiagent Systems with State Uncertainty, [Paper](https://d1wqtxts1xzle7.cloudfront.net/33866159/msdm2013-proceedings-with-cover-page-v2.pdf?Expires=1668977494&Signature=DjGUcOEoWzZOYs5hjOkhWSHzS9udXcua7ZwBvo1guJvdJmqkBT6I~IbVp8qWzUain9vcAdjAAJEZj5qvuAIsxXaWj7IFUcSUbI~aBM~5xGNrKtUpYLRSZuPNjVBR~QXQvZigdjiNGnkWCeJ-WtHzoxCA2UnLXmTyKid7UBPYaVzyMxjYlqTsEQjphgR04ePt522N0fHMBMjE3ofqX-SQLBdkzhe7M8QwuHhPH6FMWLZ4Kp1HyOaVz-KmZfdTFxfRyHXDxxw6ymqJq8jiqnXmNuFqkt8kB528JYpG2JJ0hhaWLdlur1xXzsrvzoC~KEsJU2KGvfInIPECHeJvnEukTA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=80)(2013)
-
-- Deep Recurrent Q-Learning for Partially Observable MDPs, [Paper](https://arxiv.org/pdf/1507.06527.pdf)(2015)
+#### 3.1. Approximation of belief-states with Bayesian Filtering
 
 - Deep Reinforcement Learning with POMDP, [Paper](http://cs229.stanford.edu/proj2015/363_report.pdf)(2015)
 
-- Intention-Aware Online POMDP Planning for Autonomous Driving in a Crows, [Paper](https://bigbird.comp.nus.edu.sg/m2ap/wordpress/wp-content/uploads/2016/01/icra15.pdf)(2015) 
-
 - QMDP-Net: Deep Learning for Planning under Partial Observability, [Paper](https://proceedings.neurips.cc/paper/2017/file/e9412ee564384b987d086df32d4ce6b7-Paper.pdf)(2017)
 
-- TEMPORAL DIFFERENCE VARIATIONAL AUTO-ENCODER, [Paper](https://arxiv.org/pdf/1806.03107.pdf)(2018)
+#### 3.2. Approximation of belief-states in vector representation with RNN
 
-- Deep Variational Reinforcement Learning for POMDPs, [Paper](http://proceedings.mlr.press/v80/igl18a/igl18a.pdf)(2018)
+- Deep Recurrent Q-Learning for Partially Observable MDPs, [Paper](https://arxiv.org/pdf/1507.06527.pdf)(2015)
 
 - On Improving Deep Reinforcement Learning for POMDPs, [Paper](https://arxiv.org/pdf/1704.07978.pdf)(2018) [Code](https://github.com/bit1029public/ADRQN)
 
 - Shaping Belief States with Generative Environment Models for RL, [Paper](https://proceedings.neurips.cc/paper/2019/file/2c048d74b3410237704eb7f93a10c9d7-Paper.pdf)(2019)
 
-- VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)  [Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
+- Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDP, [Paper](https://arxiv.org/pdf/2110.05038.pdf)(2021) 
+
+- Memory-based Deep Reinforcement Learning for POMDP, [Paper](https://arxiv.org/pdf/2102.12344.pdf)(2021)
+
+#### 3.3. Approximation of belief-states with variational inference
+
+- Deep Kalman Filters, [Paper](https://arxiv.org/pdf/1511.05121.pdf)(2015)
+
+- A Recurrent Latent Variable Model for Sequential Data, [Paper](https://proceedings.neurips.cc/paper/2015/file/b618c3210e934362ac261db280128c22-Paper.pdf)(2015)
+
+- TEMPORAL DIFFERENCE VARIATIONAL AUTO-ENCODER, [Paper](https://arxiv.org/pdf/1806.03107.pdf)(2018)
+
+- VARIATIONAL RECURRENT MODELS FOR SOLVING PARTIALLY OBSERVABLE CONTROL TASKS, [Paper](https://openreview.net/pdf?id=r1lL4a4tDB)(2020)[Code](https://github.com/oist-cnru/Variational-Recurrent-Models)
+
+- Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model, [Paper](https://proceedings.neurips.cc/paper/2020/file/08058bf500242562c0d031ff830ad094-Paper.pdf)(2020)
+
+- Flow-based Recurrent Belief State Learning for POMDPs, [Paper](https://proceedings.mlr.press/v162/chen22q/chen22q.pdf)(2022)
+
+#### 3.4. Approximation of belief-states with Particle Filter
+
+- DESPOT: Online POMDP Planning with Regularization, [Paper](https://proceedings.neurips.cc/paper/2013/file/c2aee86157b4a40b78132f1e71a9e6f1-Paper.pdf)(2013)
+
+- Intention-Aware Online POMDP Planning for Autonomous Driving in a Crows, [Paper](https://bigbird.comp.nus.edu.sg/m2ap/wordpress/wp-content/uploads/2016/01/icra15.pdf)(2015) 
+
+- Deep Variational Reinforcement Learning for POMDPs, [Paper](http://proceedings.mlr.press/v80/igl18a/igl18a.pdf)(2018)
 
 - Particle Filter Recurrent Neural Networks, [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5952)(2020)
 
-- Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDP, [Paper](https://arxiv.org/pdf/2110.05038.pdf)(2021) 
 
-- Memory-based Deep Reinforcement Learning for POMDP, [Paper](https://arxiv.org/pdf/2102.12344.pdf)(2021) 
-
-- Flow-based Recurrent Belief State Learning for POMDPs, [Paper](https://proceedings.mlr.press/v162/chen22q/chen22q.pdf)(2022) 
 
 ### 4. Uncertainty in observation
 #### 4.1. 
