@@ -150,9 +150,19 @@ The README is organized as follows:
 ### 4. Uncertainty in observation
 #### 4.1. 
 
+- Adversarial Attacks on Neural Network Policies, [Paper](https://arxiv.org/pdf/1702.02284.pdf)(2017)
+
+- Sensor Fusion for Robot Control through Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1703.04550.pdf)(2017)
+
 - Certified Adversarial Robustness for Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1910.12908.pdf)(2019)
 
-- Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, [Paper](https://arxiv.org/pdf/2003.08938.pdf)(2021)
+- A Two-Stage Reinforcement Learning Approach for Multi-UAV Collision Avoidance Under Imperfect Sensing, [Paper](https://www.researchgate.net/profile/Dawei-Wang-34/publication/339344692_A_Two-Stage_Reinforcement_Learning_Approach_for_Multi-UAV_Collision_Avoidance_Under_Imperfect_Sensing/links/5ed8b2ba299bf1c67d3bd2ab/A-Two-Stage-Reinforcement-Learning-Approach-for-Multi-UAV-Collision-Avoidance-Under-Imperfect-Sensing.pdf)(2020)
+
+- Data fusion using Bayesian theory and reinforcement learning method, [Paper](http://scis.scichina.com/en/2020/170209.pdf)(2020)
+
+- ADVERSARIAL POLICIES: ATTACKING DEEP REINFORCEMENT LEARNING, [Paper](https://openreview.net/attachment?id=HJgEMpVFwB&name=original_pdf)(2020)
+
+- Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, [Paper](https://arxiv.org/pdf/2003.08938.pdf)(2021)[Code](https://github.com/chenhongge/StateAdvDRL)
 
 - Incorporating Observation Uncertainty into Reinforcement Learning-Based Spacecraft Guidance Schemes, [Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2022-1765)(2022)
 
