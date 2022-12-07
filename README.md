@@ -152,9 +152,15 @@ The README is organized as follows:
 
 - Adversarial Attacks on Neural Network Policies, [Paper](https://arxiv.org/pdf/1702.02284.pdf)(2017)
 
+- Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks, [Paper](https://arxiv.org/pdf/1701.04143.pdf)(2017)
+
+- Robust Deep Reinforcement Learning with Adversarial Attacks, [Paper](https://arxiv.org/pdf/1712.03632.pdf)(2017)
+
 - Sensor Fusion for Robot Control through Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1703.04550.pdf)(2017)
 
-- Certified Adversarial Robustness for Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1910.12908.pdf)(2019)
+- Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1911.04175.pdf)(2019)
+
+- Certified Adversarial Robustness for Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1910.12908.pdf)(2020)
 
 - A Two-Stage Reinforcement Learning Approach for Multi-UAV Collision Avoidance Under Imperfect Sensing, [Paper](https://www.researchgate.net/profile/Dawei-Wang-34/publication/339344692_A_Two-Stage_Reinforcement_Learning_Approach_for_Multi-UAV_Collision_Avoidance_Under_Imperfect_Sensing/links/5ed8b2ba299bf1c67d3bd2ab/A-Two-Stage-Reinforcement-Learning-Approach-for-Multi-UAV-Collision-Avoidance-Under-Imperfect-Sensing.pdf)(2020)
 
@@ -164,9 +170,16 @@ The README is organized as follows:
 
 - Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, [Paper](https://arxiv.org/pdf/2003.08938.pdf)(2021)[Code](https://github.com/chenhongge/StateAdvDRL)
 
+- ROBUST REINFORCEMENT LEARNING ON STATE OBSERVATIONS WITH LEARNED OPTIMAL ADVERSARY, [Paper](https://arxiv.org/pdf/2101.08452.pdf)(2021)
+
+- Certifiable Robustness to Adversarial State Uncertainty in Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/2004.06496.pdf)(2021)
+
 - Incorporating Observation Uncertainty into Reinforcement Learning-Based Spacecraft Guidance Schemes, [Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2022-1765)(2022)
 
-- Certifiable Robustness to Adversarial State Uncertainty in Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/2004.06496.pdf)(2022)
+- POLICY SMOOTHING FOR PROVABLY ROBUST REINFORCEMENT LEARNING, [Paper](https://arxiv.org/pdf/2106.11420.pdf)(2022)
+
+
+
  
 
 
