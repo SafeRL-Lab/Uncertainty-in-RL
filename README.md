@@ -152,21 +152,19 @@ The README is organized as follows:
 ### 4. Uncertainty in observation
 #### 4.1. 
 
+- Modeling Humans as Observation Providers using POMDPs, [Paper](https://ieeexplore.ieee.org/abstract/document/6005272)(2011)
+
 - Adversarial Attacks on Neural Network Policies, [Paper](https://arxiv.org/pdf/1702.02284.pdf)(2017)
 
 - Vulnerability of Deep Reinforcement Learning to Policy Induction Attacks, [Paper](https://arxiv.org/pdf/1701.04143.pdf)(2017)
 
 - Robust Deep Reinforcement Learning with Adversarial Attacks, [Paper](https://arxiv.org/pdf/1712.03632.pdf)(2017)
 
-- Sensor Fusion for Robot Control through Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1703.04550.pdf)(2017)
-
 - Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1911.04175.pdf)(2019)
 
 - Certified Adversarial Robustness for Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1910.12908.pdf)(2020)
 
 - A Two-Stage Reinforcement Learning Approach for Multi-UAV Collision Avoidance Under Imperfect Sensing, [Paper](https://www.researchgate.net/profile/Dawei-Wang-34/publication/339344692_A_Two-Stage_Reinforcement_Learning_Approach_for_Multi-UAV_Collision_Avoidance_Under_Imperfect_Sensing/links/5ed8b2ba299bf1c67d3bd2ab/A-Two-Stage-Reinforcement-Learning-Approach-for-Multi-UAV-Collision-Avoidance-Under-Imperfect-Sensing.pdf)(2020)
-
-- Data fusion using Bayesian theory and reinforcement learning method, [Paper](http://scis.scichina.com/en/2020/170209.pdf)(2020)
 
 - ADVERSARIAL POLICIES: ATTACKING DEEP REINFORCEMENT LEARNING, [Paper](https://openreview.net/attachment?id=HJgEMpVFwB&name=original_pdf)(2020)
 
