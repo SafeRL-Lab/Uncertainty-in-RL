@@ -152,6 +152,8 @@ The README is organized as follows:
 ### 4. Uncertainty in observation
 #### 4.1. 
 
+- A Bayesian Method for Learning POMDP Observation Parameters for Robot Interaction Management Systems, [Paper](http://users.isr.ist.utl.pt/~mtjspaan/POMDPPractioners/pomdp2010_submission_16.pdf)(2010)
+
 - Modeling Humans as Observation Providers using POMDPs, [Paper](https://ieeexplore.ieee.org/abstract/document/6005272)(2011)
 
 - Adversarial Attacks on Neural Network Policies, [Paper](https://arxiv.org/pdf/1702.02284.pdf)(2017)
