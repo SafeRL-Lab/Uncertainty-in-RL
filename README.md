@@ -86,6 +86,8 @@ The README is organized as follows:
 
 - Exploring State Transition Uncertainty in Variational Reinforcement Learning, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9287440)(2020)
 
+- UMBRELLA: Uncertainty-Aware Model-Based Offline Reinforcement Learning Leveraging Plannin, [Paper](https://arxiv.org/pdf/2111.11097.pdf)(2022)
+
 
 
 #### 2.4. Robust RL
