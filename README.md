@@ -162,6 +162,8 @@ The README is organized as follows:
 
 - Robust Deep Reinforcement Learning with Adversarial Attacks, [Paper](https://arxiv.org/pdf/1712.03632.pdf)(2017)
 
+- Whatever Does Not Kill Deep Reinforcement Learning, Makes It Stronger, [Paper](https://arxiv.org/pdf/1712.09344.pdf)(2017)
+
 - Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1911.04175.pdf)(2019)
 
 - Certified Adversarial Robustness for Deep Reinforcement Learning, [Paper](https://arxiv.org/pdf/1910.12908.pdf)(2020)
