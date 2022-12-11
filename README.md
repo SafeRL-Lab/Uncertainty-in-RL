@@ -182,6 +182,7 @@ The README is organized as follows:
 
 - POLICY SMOOTHING FOR PROVABLY ROBUST REINFORCEMENT LEARNING, [Paper](https://arxiv.org/pdf/2106.11420.pdf)(2022)
 
+- RORL: Robust Offline Reinforcement Learning via Conservative Smoothing, [Paper](https://arxiv.org/pdf/2206.02829v3.pdf)(2022)
 
 
  
