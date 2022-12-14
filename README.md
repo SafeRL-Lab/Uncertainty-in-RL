@@ -27,7 +27,7 @@ The README is organized as follows:
 
 
 
-### 1. Uncertainty in reward
+### 1. Uncertainty in Reward
 #### 1.1. Inverse Reinforcement Learning 
 - Apprenticeship Learning via Inverse Reinforcement Learning, [Paper](https://www.cs.utexas.edu/~sniekum/classes/RLFD-F15/papers/Abbeel04.pdf) (2004)
 - Maximum Entropy Inverse Reinforcement Learning, [Paper](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf?source=post_page---------------------------) (2008)
@@ -52,7 +52,7 @@ The README is organized as follows:
 
 
 
-### 2. Uncertainty in transition
+### 2. Uncertainty in Transition
 
 #### 2.1. Gaussian Process, Bayesian Neural Network 
 
@@ -103,7 +103,7 @@ The README is organized as follows:
 
 - RAMBO-RL: Robust Adversarial Model-Based Offline Reinforcement Learning, [Paper](https://arxiv.org/pdf/2204.12581.pdf)(2022) [Code](https://github.com/marc-rigter/rambo)
 
-### 3. Uncertainty in state
+### 3. Uncertainty in State
 
 #### 3.1. Approximation of belief-states with Bayesian Filtering
 
@@ -149,7 +149,7 @@ The README is organized as follows:
 
 
 
-### 4. Uncertainty in observation
+### 4. Uncertainty in Observation
 #### 4.1. 
 
 - A Bayesian Method for Learning POMDP Observation Parameters for Robot Interaction Management Systems, [Paper](http://users.isr.ist.utl.pt/~mtjspaan/POMDPPractioners/pomdp2010_submission_16.pdf)(2010)
