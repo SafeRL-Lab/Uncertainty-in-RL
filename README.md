@@ -184,8 +184,12 @@ The README is organized as follows:
 
 - RORL: Robust Offline Reinforcement Learning via Conservative Smoothing, [Paper](https://arxiv.org/pdf/2206.02829v3.pdf)(2022)
 
+### 5. Uncertainty in Constraint
+#### 5.1.
 
- 
+- WCSAC: Worst-Case Soft Actor Critic for Safety-Constrained Reinforcement Learning, [Paper](https://www.st.ewi.tudelft.nl/~mtjspaan/pub/Yang21aaai.pdf)(2021)
+
+- Safety‑constrained reinforcement learning with a distributional safety critic, [Paper](https://link.springer.com/content/pdf/10.1007/s10994-022-06187-8.pdf?pdf=button)(2022)
 
 
 
