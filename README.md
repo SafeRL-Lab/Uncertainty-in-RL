@@ -187,10 +187,17 @@ The README is organized as follows:
 ### 5. Uncertainty in Constraint
 #### 5.1.
 
+- Budget Allocation using Weakly Coupled, Constrained Markov Decision Processes, [Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45291.pdf)(2016)
+
+- A Fitted-Q Algorithm for Budgeted MDPs, [Paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/ewrl_14_2018_paper_67.pdf)(2018)
+
+- Safe Exploration in Continuous Action Spaces, [Paper](https://arxiv.org/pdf/1801.08757.pdf)(2018)
+
 - WCSAC: Worst-Case Soft Actor Critic for Safety-Constrained Reinforcement Learning, [Paper](https://www.st.ewi.tudelft.nl/~mtjspaan/pub/Yang21aaai.pdf)(2021)
 
 - Safety‑constrained reinforcement learning with a distributional safety critic, [Paper](https://link.springer.com/content/pdf/10.1007/s10994-022-06187-8.pdf?pdf=button)(2022)
 
+- Constrained Markov decision processes with uncertain costs, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167637722000268)(2022)
 
 
 
