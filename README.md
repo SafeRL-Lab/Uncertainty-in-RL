@@ -197,6 +197,8 @@ The README is organized as follows:
 
 - Safe Exploration in Continuous Action Spaces, [Paper](https://arxiv.org/pdf/1801.08757.pdf)(2018)
 
+- Learning Parametric Constraints in High Dimensions from Demonstrations, [Paper](https://arxiv.org/pdf/1910.03477.pdf)(2019)
+
 - Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning, [Paper](https://arxiv.org/pdf/1909.05477.pdf)(2020)
 
 - WCSAC: Worst-Case Soft Actor Critic for Safety-Constrained Reinforcement Learning, [Paper](https://www.st.ewi.tudelft.nl/~mtjspaan/pub/Yang21aaai.pdf)(2021)
