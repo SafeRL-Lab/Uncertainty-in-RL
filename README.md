@@ -191,7 +191,13 @@ The README is organized as follows:
 
 - A Fitted-Q Algorithm for Budgeted MDPs, [Paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/ewrl_14_2018_paper_67.pdf)(2018)
 
+- Inferring geometric constraints in human demonstrations, [Paper](http://proceedings.mlr.press/v87/subramani18a/subramani18a.pdf)(2018)
+
+- Learning Constraints from Demonstrations, [Paper](https://arxiv.org/pdf/1812.07084.pdf)(2018)
+
 - Safe Exploration in Continuous Action Spaces, [Paper](https://arxiv.org/pdf/1801.08757.pdf)(2018)
+
+- Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning, [Paper](https://arxiv.org/pdf/1909.05477.pdf)(2020)
 
 - WCSAC: Worst-Case Soft Actor Critic for Safety-Constrained Reinforcement Learning, [Paper](https://www.st.ewi.tudelft.nl/~mtjspaan/pub/Yang21aaai.pdf)(2021)
 
