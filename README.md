@@ -205,6 +205,8 @@ The README is organized as follows:
 
 - Safety‑constrained reinforcement learning with a distributional safety critic, [Paper](https://link.springer.com/content/pdf/10.1007/s10994-022-06187-8.pdf?pdf=button)(2022)
 
+- Learning Behavioral Soft Constraints from Demonstrations, [Paper](https://arxiv.org/pdf/2202.10407.pdf)(2022)
+
 - Constrained Markov decision processes with uncertain costs, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167637722000268)(2022)
 
 
