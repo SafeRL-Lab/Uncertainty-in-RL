@@ -203,6 +203,8 @@ The README is organized as follows:
 
 - WCSAC: Worst-Case Soft Actor Critic for Safety-Constrained Reinforcement Learning, [Paper](https://www.st.ewi.tudelft.nl/~mtjspaan/pub/Yang21aaai.pdf)(2021)
 
+- Inverse Constrained Reinforcement Learning, [Paper](https://arxiv.org/pdf/2011.09999.pdf)(2021) [Code](https://github.com/shehryar-malik/icrl)
+
 - Safety‑constrained reinforcement learning with a distributional safety critic, [Paper](https://link.springer.com/content/pdf/10.1007/s10994-022-06187-8.pdf?pdf=button)(2022)
 
 - Learning Behavioral Soft Constraints from Demonstrations, [Paper](https://arxiv.org/pdf/2202.10407.pdf)(2022)
