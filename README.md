@@ -201,6 +201,8 @@ The README is organized as follows:
 
 - Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning, [Paper](https://arxiv.org/pdf/1909.05477.pdf)(2020)
 
+- Learning Constraints from Locally-Optimal Demonstrations under Cost Function Uncertainty, [Paper](https://arxiv.org/pdf/2001.09336.pdf)(2020)
+
 - WCSAC: Worst-Case Soft Actor Critic for Safety-Constrained Reinforcement Learning, [Paper](https://www.st.ewi.tudelft.nl/~mtjspaan/pub/Yang21aaai.pdf)(2021)
 
 - Inverse Constrained Reinforcement Learning, [Paper](https://arxiv.org/pdf/2011.09999.pdf)(2021) [Code](https://github.com/shehryar-malik/icrl)
