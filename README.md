@@ -197,6 +197,10 @@ The README is organized as follows:
 
 - Safe Exploration in Continuous Action Spaces, [Paper](https://arxiv.org/pdf/1801.08757.pdf)(2018)
 
+- Learner-aware Teaching: Inverse Reinforcement Learning with Preferences and Constraints, [Paper](https://proceedings.neurips.cc/paper/2019/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)(2019)
+
+- Budgeted Reinforcement Learning in Continuous State Space, [Paper](https://proceedings.neurips.cc/paper/2019/file/4fe5149039b52765bde64beb9f674940-Paper.pdf)(2019)
+
 - Learning Parametric Constraints in High Dimensions from Demonstrations, [Paper](https://arxiv.org/pdf/1910.03477.pdf)(2019)
 
 - Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning, [Paper](https://arxiv.org/pdf/1909.05477.pdf)(2020)
