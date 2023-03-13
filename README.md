@@ -11,19 +11,10 @@ The repository is for Reinforcement-Learning Uncertainty research, in which we i
 
 
 
-***
-The README is organized as follows:
-- [1. Uncertainty in reward]
-  * [1.1. Safe Single Agent RL benchmarks](#11-safe-single-agent-rl-benchmarks)
-  * [1.2. Safe Multi-Agent RL benchmarks](#12-safe-multi-agent-rl-benchmarks)
-- [2. Safe RL Baselines](#2-safe-rl-baselines)
-  * [2.1. Safe Single Agent RL Baselines](#21-safe-single-agent-rl-baselines)
-  * [2.2. Safe Multi-Agent RL Baselines](#22-safe-multi-agent-rl-baselines)
-- [3. Surveys](#3-surveys)
-- [4. Thesis](#4-thesis)
-- [5. Book](#5-book)
 
-***
+The README is organized as follows:
+
+
 
 
 
@@ -150,7 +141,7 @@ The README is organized as follows:
 
 
 ### 4. Uncertainty in Observation
-#### 4.1. 
+
 
 - A Bayesian Method for Learning POMDP Observation Parameters for Robot Interaction Management Systems, [Paper](http://users.isr.ist.utl.pt/~mtjspaan/POMDPPractioners/pomdp2010_submission_16.pdf)(2010)
 
@@ -185,7 +176,7 @@ The README is organized as follows:
 - RORL: Robust Offline Reinforcement Learning via Conservative Smoothing, [Paper](https://arxiv.org/pdf/2206.02829v3.pdf)(2022)
 
 ### 5. Uncertainty in Constraint
-#### 5.1.
+
 
 - Budget Allocation using Weakly Coupled, Constrained Markov Decision Processes, [Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45291.pdf)(2016)
 
