@@ -2,17 +2,7 @@
 
 
 
-
-
-
-
 The repository is for Reinforcement-Learning Uncertainty research, in which we investigate various uncertain factors in RL. 
-
-
-
-
-
-The README is organized as follows:
 
 
 
