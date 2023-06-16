@@ -6,7 +6,7 @@
 
 
 
-The repository is for Reinforcement-Learning Uncertainty research, in which we investigate various uncertain factors in RL, including single agent RL and multi-agent RL. 
+The repository is for Reinforcement-Learning Uncertainty research, in which we investigate various uncertain factors in RL. 
 
 
 
